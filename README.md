@@ -1,0 +1,2 @@
+# EEG Signal Processing & Enhancement
+ This repository contains a Tkinter-based GUI application for processing EEG signals from EDF files. The application performs bandpass filtering, EMG noise reduction using Wavelet Transform, and signal enhancement via Savitzky-Golay filtering. The processed signals can be visualized, analyzed, and saved back in EDF format.  For a detailed explanation, installation guide, and usage instructions, please refer to the README.md file.
